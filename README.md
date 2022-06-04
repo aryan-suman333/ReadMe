@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryan-suman333
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Nodejs
-- 📫 Reach me at aryaansuman18@gmail.com
+- 📫 Reach me at aryansuman18@gmail.com
 
 <!---
 aryan-suman333/aryan-suman333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
