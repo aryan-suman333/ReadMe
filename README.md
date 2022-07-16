@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryan-suman333
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning MERN Stack.
 - 📫 Reach me at aryansuman18@gmail.com
 
 <!---
